@@ -14,3 +14,6 @@ Various Method Using In MongoDB:
 7. sort()
 8. limit()
 9. skip()
+
+And Using SQL ,
+Insert , Update , Drop , Delete , Sort , limit commands.
