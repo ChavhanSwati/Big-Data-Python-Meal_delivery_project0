@@ -8,6 +8,7 @@ By swati Chavhan
 Requirements:
 
 Various Method Using In MongoDB:
+
 1. Find() : This will insert more than one input data into the Database
 2. Find_many() : This will insert more than one input data into the Database
 3. insert_one() : This will insert only one input data into the Database
@@ -18,10 +19,13 @@ Various Method Using In MongoDB:
 8. limit() : This will set the limit of output to the Required number
 9. skip() : This will used for skipping the given number of documents
 
+
 And Using SQL Query:
-Insert 
-Update 
-Drop 
-Delete 
-Sort 
-limit
+
+1. Insert 
+2. Update 
+3. Drop 
+4. Delete 
+5. Sort 
+6. limit
+
