@@ -32,3 +32,12 @@ And Using SQL Query:
 5. Sort 
 6. limit
 
+
+
+MongoDB compass
+Workbench for sql
+
+
+language :
+Python , Sql
+
