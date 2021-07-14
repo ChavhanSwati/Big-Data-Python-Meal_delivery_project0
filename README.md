@@ -34,9 +34,10 @@ And Using SQL Query:
 
 
 
-1. MongoDB compass
 
-2. Workbench for sql
+ MongoDB compass
+
+ Workbench for sql
 
 
 language :
