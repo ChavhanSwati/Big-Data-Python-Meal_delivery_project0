@@ -8,7 +8,7 @@ By swati Chavhan
 To create a Meal_info_delivery system using a crud operation.
 
 
-# Requirements:
+# Functions
 
 Various Method Using In MongoDB:
 
@@ -33,7 +33,7 @@ And Using SQL Query:
 6. limit
 
 
-
+# Requirements:
 
  MongoDB compass
 
