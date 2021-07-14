@@ -13,8 +13,8 @@ To create a Meal_info_delivery system using a crud operation.
 Various Method Using In MongoDB:
 
 1. Find() : This will shows more than one input data into the Database
-2. Find_many() : This will show or search more than one input data into the Database
-3. insert_one() : This will show only one input data into the Database
+2. inser_many() : This will show or search more than one input data into the Database
+3. insert_one() : This will insert only one input data into the Database
 4. find_one() : This will find only one data input from the mentioned Database
 5. delete_one() : This will delete one field data from the Database
 6. Delete_many() : This will delete several documents in a collection at once
